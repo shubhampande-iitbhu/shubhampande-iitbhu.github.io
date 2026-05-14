@@ -1,0 +1,18 @@
+# Top navigation links. Order here controls order in the header.
+# Remove an entry to hide it from the nav bar without deleting its page.
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
