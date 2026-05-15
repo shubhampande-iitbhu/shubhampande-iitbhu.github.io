@@ -23,7 +23,7 @@ repository               : "shubhampande-iitbhu/shubhampande-iitbhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shubham_pic_for_personal_Web.png"
+  avatar           : "/images/shubham_pic_for_personal_Web.png"
   name             : "Shubham Pande"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor, Electronics Engineering, IIT (BHU) Varanasi. Research in Advanced CMOS, ReRAM, Neuromorphic Computing."
