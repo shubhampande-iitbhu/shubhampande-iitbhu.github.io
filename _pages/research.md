@@ -19,14 +19,11 @@ My research addresses memory technologies for next‑generation computing. With 
 
 ## Emerging Computing Paradigms
 
-This research thrust focuses on developing compute paradigms that harness the inherent physical laws of device physics and circuit interconnections to enable energy‑efficient computing. Work in this area spans cross‑layer optimization—ranging from tailoring device properties to the target application, through circuit prototyping, to application‑level modeling and analysis.
-Among the notable directions I have pursued are:
+This research thrust focuses on developing computing paradigms that harness the inherent physical laws of device physics and circuit interconnections to enable energy-efficient computing. Work in this area spans cross-layer optimization ranging from tailoring device properties to target applications, circuit prototyping, and application-level modeling and analysis. Notable research directions I have pursued include:
 
-1. Developing neoHebbian synapses for online training of neuromorphic hardware,
-
-2. ReRAM‑enabled kernels for reservoir computing that provide post‑fabrication tunability, and
-
-3. Advanced CMOS Image Sensors using ReRAM to break the fundamental trade‑off between dynamic range and conversion gain in image sensors.
+1) developing neo-Hebbian synapses for the online training of neuromorphic hardware,
+2) ReRAM-enabled kernels for reservoir computing that provide post-fabrication tunability, and
+3) advanced CMOS image sensors using ReRAM to overcome the fundamental trade-off between dynamic range and conversion gain.
 
 <!-- TODO: Replace with actual .png or .jpg image -->
 ---
