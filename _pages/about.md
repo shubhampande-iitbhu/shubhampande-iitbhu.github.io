@@ -14,10 +14,9 @@ I received my Direct PhD (MS + PhD) from [IIT Madras](https://www.iitm.ac.in/) i
 
 ## Research Interests
 
-- Advanced CMOS Devices (nanosheet, FinFET, GAAFET)
-- Novel Memory Concepts (ReRAM, FeFET)
-- Neuromorphic Hardware and Compute-in-Memory
-- Design–Technology Co-Optimization (DTCO)
+- Emerging Memories — ReRAM, FeFET, and DRAM for storage and in-memory computing
+- Emerging Computing Paradigms — neuromorphic hardware, reservoir computing, compute-in-memory
+- Advanced CMOS Devices and Design–Technology Co-Optimization (DTCO)
 
 ---
 

@@ -26,7 +26,7 @@ author:
   avatar           : "/images/profile.jpg"
   name             : "Shubham Pande"
   pronouns         : # example: "she/her"
-  bio              : "Assistant Professor, Electronics Engineering, IIT (BHU) Varanasi. Research in Advanced CMOS, ReRAM, Neuromorphic Computing."
+  bio              :
   location         : "Varanasi, India"
   employer         : "IIT (BHU) Varanasi"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # not used
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
