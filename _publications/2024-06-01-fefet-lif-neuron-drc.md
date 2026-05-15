@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-06-01-fefet-lif-neuron-drc
 date: 2024-06-01
 venue: "IEEE Device Research Conference (DRC) 2024"
-paperurl: ""
+paperurl:
 excerpt: "Shubham Pande et al."
 ---
 

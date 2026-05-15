@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2020-01-01-thermal-model-sige-hbt
 date: 2020-01-01
 venue: "IEEE Transactions on Electron Devices, vol. 67"
-paperurl: ""
+paperurl:
 excerpt: "Nidhin K., Shubham Pande, et al."
 ---
 

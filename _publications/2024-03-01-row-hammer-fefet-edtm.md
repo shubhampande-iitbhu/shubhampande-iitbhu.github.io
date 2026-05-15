@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-03-01-row-hammer-fefet-edtm
 date: 2024-03-01
 venue: "IEEE Electron Devices Technology and Manufacturing (EDTM) 2024"
-paperurl: ""
+paperurl:
 excerpt: "Shubham Pande et al."
 ---
 

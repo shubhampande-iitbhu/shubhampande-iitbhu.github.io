@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-01-3t1c1r-synaptic-drc
 date: 2025-06-01
 venue: "IEEE Device Research Conference (DRC) 2025"
-paperurl: ""
+paperurl:
 excerpt: "Shubham Pande et al."
 ---
 

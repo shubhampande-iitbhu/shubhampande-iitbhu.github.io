@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-12-15-electrothermal-reram-iwpsd
 date: 2023-12-15
 venue: "International Workshop on Physics of Semiconductor Devices (IWPSD) 2023"
-paperurl: ""
+paperurl:
 excerpt: "Shubham Pande et al."
 ---
 

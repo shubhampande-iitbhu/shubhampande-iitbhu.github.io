@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-06-01-fixed-charges-hfo2-fefet
 date: 2023-06-01
 venue: "Memories - Materials, Devices, Circuits and Systems, Vol. 4"
-paperurl: ""
+paperurl:
 excerpt: "Masud R. Sk, Shubham Pande, et al."
 ---
 

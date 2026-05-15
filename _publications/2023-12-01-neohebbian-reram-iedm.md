@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-12-01-neohebbian-reram-iedm
 date: 2023-12-01
 venue: "IEEE International Electron Devices Meeting (IEDM) 2023"
-paperurl: ""
+paperurl:
 excerpt: "Shubham Pande, T. Bhattacharya, S.S. Bezugam, E. Wlazlak, D. Strukov"
 ---
 

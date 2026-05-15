@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Assistant Professor, Department of Electronics Engineering, IIT (BHU) Varanasi"
+title                    : "Shubham Pande"
 title_separator          : "-"
 name                     : &name "Shubham Pande"
 description              : &description "Personal academic website of Shubham Pande — research in Advanced CMOS Devices, ReRAM, Neuromorphic Hardware, and DTCO."
@@ -23,10 +23,10 @@ repository               : "shubhampande-iitbhu/shubhampande-iitbhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Shubham Pande"
   pronouns         : # example: "she/her"
-  bio              :
+  bio              : "Assistant Professor, Electronics Engineering, IIT (BHU) Varanasi. Research in Advanced CMOS, ReRAM, Neuromorphic Computing."
   location         : "Varanasi, India"
   employer         : "IIT (BHU) Varanasi"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "your-linkedin-username" # LinkedIn username only (not the full URL)
+  linkedin         : "shubham-pande" # LinkedIn username only (not the full URL)
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
