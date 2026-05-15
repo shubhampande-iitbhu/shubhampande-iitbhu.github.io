@@ -58,7 +58,7 @@ Project: Temperature-modulated synaptic devices for spiking neural networks
 
 ---
 
-## Talks
+<!-- ## Talks
 
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
@@ -70,4 +70,4 @@ Project: Temperature-modulated synaptic devices for spiking neural networks
 
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->

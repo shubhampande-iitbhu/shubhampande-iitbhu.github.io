@@ -11,8 +11,8 @@ Courses taught at IIT (BHU) Varanasi will be listed here. This page is updated e
 
 *Content coming soon — check back at the start of the next semester.*
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

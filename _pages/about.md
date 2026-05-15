@@ -22,6 +22,4 @@ I received my Direct PhD (MS + PhD) from [IIT Madras](https://www.iitm.ac.in/) i
 
 ## Recent News
 
-- **[May 2025]** Joined the Department of Electronics Engineering, IIT (BHU) Varanasi as Assistant Professor.
-- **[Mar 2025]** Successfully defended PhD thesis at IIT Madras on ReRAM-based Neuromorphic Computing.
-- **[Aug 2022]** Awarded the Fulbright-Nehru Doctoral Research Fellowship; began research visit at UC Santa Barbara with Prof. Dmitri Strukov.
+- **[April 2026]** Joined the Department of Electronics Engineering, IIT (BHU) Varanasi as Assistant Professor.

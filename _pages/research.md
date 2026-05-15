@@ -28,8 +28,7 @@ Among the notable directions I have pursued are:
 
 3. Advanced CMOS Image Sensors using ReRAM to break the fundamental trade‑off between dynamic range and conversion gain in image sensors.
 
-![](/images/DTCO_fig.png)
-
+<!-- TODO: Replace with actual .png or .jpg image -->
 ---
 
 ## Infrastructure
