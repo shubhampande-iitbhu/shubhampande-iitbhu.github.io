@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV (PDF)](/files/CV_Shubham_Indutry.pdf)
+[Download full CV (PDF)](/files/CV_Shubham.pdf)
 
 ---
 
