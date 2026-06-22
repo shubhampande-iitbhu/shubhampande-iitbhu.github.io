@@ -15,28 +15,28 @@ redirect_from:
 
 ## Education
 
-**Direct PhD (MS + PhD)** — Indian Institute of Technology Madras, 2019–2025
-Thesis: ReRAM Memory Technology for Neuromorphic Computing
-CGPA: 9.41 / 10
+**Direct PhD (MS + PhD)** — Indian Institute of Technology Madras, 2019–2025<br>
+Thesis: ReRAM Memory Technology for Neuromorphic Computing<br>
+CGPA: 9.41 / 10<br>
 Advisors: Prof. Anjan Chakravorty & Prof. Bhaswar Chakrabarti
 
-**B.Tech, Electronics & Telecommunication Engineering** — SGGSIE&T Nanded, 2012–2016
+**B.Tech, Electronics & Telecommunication Engineering** — SGGSIE&T Nanded, 2012–2016<br>
 CGPA: 8.02 / 10
 
 ---
 
 ## Positions Held
 
-**Assistant Professor** — Department of Electronics Engineering, IIT (BHU) Varanasi
+**Assistant Professor** — Department of Electronics Engineering, IIT (BHU) Varanasi<br>
 *Current*
 
-**Device Modeling Engineer** — Intel Technology India, Hyderabad
-*June 2024 – May 2025*
+**Device Modeling Engineer** — Intel Technology India, Hyderabad<br>
+*June 2024 – May 2025*<br>
 PDK development for nanosheet CMOS with backside power delivery (14A/10A nodes)
 
-**Fulbright-Nehru Doctoral Research Fellow** — University of California Santa Barbara
-*August 2022 – July 2023*
-Host: Prof. Dmitri Strukov, Strukov Research Group
+**Fulbright-Nehru Doctoral Research Fellow** — University of California Santa Barbara<br>
+*August 2022 – July 2023*<br>
+Host: Prof. Dmitri Strukov, Strukov Research Group<br>
 Project: Temperature-modulated synaptic devices for spiking neural networks
 
 ---
